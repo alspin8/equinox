@@ -4,7 +4,7 @@
 
 ## Description
 
-A C library thant implement some simple and complex data structures and algorithms.
+A C library that implement some simple and complex data structures and algorithms.
 
 ## Features
 
